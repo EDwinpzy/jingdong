@@ -44,10 +44,10 @@
       /* 图标上下间距(上右下左) */
       margin: .07rem 0 .02rem 0;
       font-size: .18rem;
-    }
+    };
     &--active {
       color: #1FA4FC;
-    }
+    };
   }
   &__title {
     font-size: 20px;
