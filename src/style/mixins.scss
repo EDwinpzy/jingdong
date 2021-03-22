@@ -1,0 +1,7 @@
+@mixin ellipsis {
+    //不让超出部分换行,用省略号代替
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    //超出部分隐藏
+    overflow: hidden;
+}
